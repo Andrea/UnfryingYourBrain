@@ -17,6 +17,7 @@ Thumbs.db
 *.cache
 *.ilk
 *.log
+*.dll
 *_Spliced.*proj
 [Bb]in
 [Dd]ebug*/
